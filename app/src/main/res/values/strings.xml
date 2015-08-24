@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mars Guide</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_activity_main5">Main5Activity</string>
+    <string name="title_activity_main6">Main6Activity</string>
+    <string name="title_activity_main7">Main7Activity</string>
+    <string name="title_activity_main8">Main8Activity</string>
+    <string name="title_activity_main9">Main9Activity</string>
+    <string name="title_activity_main10">Main10Activity</string>
+    <string name="title_activity_main11">Main11Activity</string>
+    <string name="title_activity_main12">Main12Activity</string>
+    <string name="title_activity_main13">Main13Activity</string>
+
+    <string name="hyperlink1">https://en.wikipedia.org/wiki/Mars</string>
+    <string name="hyperlink2">http://www.mars-one.com/</string>
+    <string name="hyperlink3">https://www.youtube.com/channel/UCMPV-VvnacL3p4yfcOZKIOQ</string>
+    <string name="hyperlink4">http://space-facts.com/mars/</string>
+    <string name="hyperlink5">http://google.com</string>
+</resources>
